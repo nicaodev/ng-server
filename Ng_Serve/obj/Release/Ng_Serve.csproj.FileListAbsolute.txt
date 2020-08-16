@@ -1,0 +1,6 @@
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\bin\Release\Ng_Serve.exe.config
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\bin\Release\Ng_Serve.exe
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\bin\Release\Ng_Serve.pdb
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\obj\Release\Ng_Serve.csproj.CoreCompileInputs.cache
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\obj\Release\Ng_Serve.exe
+D:\Users\est11396\Documents\Visual Studio 2017\Projects\Ng_Serve\Ng_Serve\obj\Release\Ng_Serve.pdb
